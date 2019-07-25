@@ -1,4 +1,4 @@
-# busigence_react
+# JWT React Base
 
 hosted on https://suhassiddu.github.io/
 
